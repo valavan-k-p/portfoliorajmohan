@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# env
+.env*.local
+
+# vercel
+.vercel
+
+# misc
+.DS_Store
+npm-debug.log*
+
+# local Claude Code tooling (design skills, preview config)
+/.claude/
